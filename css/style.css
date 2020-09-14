@@ -993,5 +993,12 @@ p {
   object-fit: cover;
 }
 
-
+#email {
+  color:  #7a7e89;
+}
+#email:hover, #email:focus, #email:active {
+  color: #8b2727;
+  outline: none;
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
